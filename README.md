@@ -1,2 +1,2 @@
-# hello-worl
+# hello-world
 this is a repository to practice 
